@@ -1,0 +1,9 @@
+aligin-item => y-axis 
+justify-content ->x-axis 
+space-around 
+spcae - between 
+flex-end 
+flex-start
+flex-direction
+row row reverse 
+col col reverse
